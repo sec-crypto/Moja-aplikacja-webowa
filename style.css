@@ -5,3 +5,11 @@ body
 	color:white;
 	font-size:20px;
 }
+
+#about-us {
+	background-color: #e0f7fa;
+	padding: 40px;
+	margin-top:50px;
+	border-radius: 10px;
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
